@@ -1,0 +1,7 @@
+Crie um programa em linguagem Java que implemente uma classe com método main e um método verificaNumeroPrimo(Integer n), retornando:
+
+0 - se o número não for primo;
+
+1 - se o número for primo.
+
+No método main(), faça uma chamada ao método verificaNumeroPrimo e imprima no console o resultado.
