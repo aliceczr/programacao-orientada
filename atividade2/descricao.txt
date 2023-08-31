@@ -1,0 +1,2 @@
+Exercício 1: Calculadora Simples Crie um programa Java que funcione como uma calculadora simples. Peça ao usuário para inserir dois números e uma operação (+, -, *, /). Realize a operação escolhida e exiba o resultado.
+Exercício 2: Conversor de Temperatura Crie um conversor de temperatura que permita ao usuário converter entre Celsius e Fahrenheit. Peça ao usuário para escolher a direção da conversão e, em seguida, faça a conversão e exiba o resultado.
